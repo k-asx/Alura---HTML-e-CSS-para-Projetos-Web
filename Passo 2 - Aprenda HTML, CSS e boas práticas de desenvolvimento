@@ -1,0 +1,31 @@
+Artigo, o que é HTML e suas Tags: Anotações feitas em caderno.
+Indicação de site para auxiliar na compreensão do HTML, tipo uma manual: https://www.w3schools.com/html/html_elements.asp
+Curso HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags.
+Professores Guilherme Lima e Rafaella Ballerini
+Developer Tools: para acessar em uma página, é só clicar com botão direito e ir em inspecionar.
+Quirks mode: O modo peculiaridade é ativado quando não inserimos a introdução de maneira correta. 
+
+Anotações:
+VS CODE, IDE utilizada nesse curso para desenvolver o código. 
+Criei uma pasta chamada portfólio e abri ela no VS CODE 
+Abri dentro dessa pasta um novo arquivo chamado index.html (indice)
+Documentação: A documentação é um guia que toda pessoa desenvolvedora deve levar a sério no dia a dia, é através dela 
+que aprendemos como funcionam as linguagens de programação e também ferramentas e bibliotecas no mundo da tecnologia.
+A documentação está inserida no presente arquivo na linha nº 2.
+Stackoverflow é uma das maiores comunidades de ajuda atualmente: https://stackoverflow.com/
+Artigo: Extensões VS Code: descubra quais são as mais usadas: https://www.alura.com.br/artigos/extensoes-vs-code-descubra-as-mais-usadas
+O que aprendemos nessa aula: 
+Nessa aula, você aprendeu:
+A importância da documentação W3S;
+O que é HTML e porque é considerada uma linguagem de marcação;
+Estruturar um documento HTML com tags e elementos;
+A utilidade da introdução <!DOCTYPE html>;
+Diferença entre a metainformação presente no <head> e o conteúdo presente no <body> de uma página HTML;
+Criar textos alternativos (alts) para uma imagem;
+Acessar a Developer Tools (Ferramentas para Desenvolvedores) de um navegador;
+Quirks mode (modo peculiaridade);
+Utilizar extensões no Visual Studio Code (Live Server por exemplo).
+
+Figma é uma ferramenta de prototipagem de interfaces, onde vamos construir o layout da página do Portfólio.
+https://www.figma.com/file/4EKKCbr5rS93RWP7kRjXIz/Portfolio---Curso-1?node-id=0-1
+O profissional de designer UX e UI estrutura todo layout da página e para o desenvolvedor front-end fazer. 
