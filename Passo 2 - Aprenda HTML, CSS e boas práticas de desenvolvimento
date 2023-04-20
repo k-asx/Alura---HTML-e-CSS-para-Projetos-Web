@@ -29,3 +29,20 @@ Utilizar extensões no Visual Studio Code (Live Server por exemplo).
 Figma é uma ferramenta de prototipagem de interfaces, onde vamos construir o layout da página do Portfólio.
 https://www.figma.com/file/4EKKCbr5rS93RWP7kRjXIz/Portfolio---Curso-1?node-id=0-1
 O profissional de designer UX e UI estrutura todo layout da página e para o desenvolvedor front-end fazer. 
+
+Tem atalhos que digito que já monta a estrutura inicial do código, exemplo:
+Se eu digitar o "!" e der enter essa estrutura já entra na tela , com mais algumas meta informações (tags).  
+Em lang, que determina a linguagem do código, quando for inserir o portuguÊs, inserir tb o BR =, para informar que é o portuguê do Brasil:
+<html lang="pt-br">
+<meta charset="UTF-8">: É a codificação dos caracteres que vamos usar, é a forma mais usada no mundo.
+<meta http-equiv="X-UA-Compatible" contente=IE=edge">: É uma configuração do edge, sempre usar quando estiver usando esse navegador.
+<meta name="viewporte"....>: sempre iniciará com escala em 1.0
+Tags semânticas:  header - cabeçalho / main - conteúdo principal / footer - rodapé
+Iniciar o projeto da esquerda para direita e de cima para baixo.
+Tag "strong" - mais forte, mais destacado. 
+Comando - Alt + z - para quebra a linha
+Não usamos a tag botão para redirecionamento e sim para formulários, por exemplo para submeter. Para redirecionamento usamos uma tag ancora. 
+Vamos usar uma hyperlink href:
+<a href="https://instagram.com/karina.angela.9"> Instagram</a>
+
+Imagem - é possivel utilizar as armazenada no pc ou baxar do próprio figma, do lado direto, clicar em export. 
